@@ -1,0 +1,21 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Data files (Excel)
+*.xlsx
+*.xls
+*.csv
+
+# IDE / Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
